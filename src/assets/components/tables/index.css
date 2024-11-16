@@ -1,0 +1,32 @@
+
+.tables{
+    padding-left: 50px;
+    width: 60%;
+}
+.tables_button {
+    display: flex;
+    gap: 20px;
+   
+}
+
+.tables_button button{
+    border: 1px solid white;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #888888;
+    padding: 15px 30px;
+    color: navy;
+    background-color: aliceblue;
+}
+
+table {
+    margin-top: 50px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding:15px 8px;
+  }

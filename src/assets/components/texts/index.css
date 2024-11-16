@@ -1,0 +1,26 @@
+.text{
+    padding-right: 50px;
+    width: 25%;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.text_upper{
+    font-size: 12px;
+}
+.text_content_upper{
+    font-size: 20px;
+}
+.text_content_lower{
+    font-size: 20px;
+}
+.about_button{
+    border-radius: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 30px;
+    background-color: rgb(92, 192, 92);
+    color: white;
+    border: none;
+}

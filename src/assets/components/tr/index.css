@@ -1,0 +1,12 @@
+td{
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding:15px 8px;
+  }
+
+  table {
+    margin-top: 50px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
